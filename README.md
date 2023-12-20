@@ -40,7 +40,7 @@ Below is a list of known firmware versions of GoPro devices.
 | HERO2                 | 1      | HD2.01 | HERO2            |           |              |  |  |
 | HERO1                 | 0      | HD1.01 | HERO1            |           |              | v01.102 |  |
 
-**Note**: All of the links to firmware versions originate from GoPro's servers directly (device-firmware.gp-static.com).
+**Note**: All of the links to firmware versions originate from GoPro's servers directly (device-firmware.gp-static.com) unless explicitly indicated otherwise.
 
 These devices include the infamous HERO action cameras as well as gimbals, drones, remote controls, etc..
 
